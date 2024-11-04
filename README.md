@@ -4,7 +4,7 @@ dowload all three files and run them.
 
 Data Dictionary:
 The words dataframe has 17 columns:
-1. Word: contains the word pulled from one of nltk's corpuses
+1. Word: contains the word pulled from one of nltk's dictionaries
 2. most_common: if the word contains the four most common letters A, E, T, O. Yes = 1, No = 0
 3. least_common: if the word contains the four least common letters X, Z, J, Q Yes = 1, No = 0
 4. double_letters: if the word has two of the same letters. Yes = 1, No = 0
